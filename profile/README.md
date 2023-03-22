@@ -11,3 +11,9 @@
 🧙 Future Plan - what are we doing?
 - We plan to develop a weixin application to bridge the gap between our end users and the ability requirements(using ladders, i.e. VPN) to visit NKUCS.ICU website. Also, it contributes to acquire informations more convinient.
 - We intend to maintain NKUCS.ICU repositories bi-weekly(recruting maintainer from the community publicly! make sure you are/were students of nkucs or related majors of nku).
+
+---
+
+## Popular Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NKUCS-ICU&repo=NKUCS.ICU)](https://github.com/NKUCS-ICU/NKUCS.ICU)
